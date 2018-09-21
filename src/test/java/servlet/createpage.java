@@ -8,7 +8,7 @@ import javax.sql.*;
 
 public class createpage extends HttpServlet {
 	
-	public void doPost(HttpServletRequest req,HttpServletResponse res)
+	public void doPost(HttpServletRequest req,HttpServletResponse  res)
     throws ServletException, IOException{
 	try{
 		
